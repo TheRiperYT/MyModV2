@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rum",
+  "name": "Uranium",
+  "description": "Uraniumul trebuia sa fie adaugat in MC de Germanu' :)",
+  "version": "${1.0}",
+  "mcversion": "${1.12.1}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheRiperYT"],
+  "credits": "TheRiperYT and his right hand, the Gips :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
